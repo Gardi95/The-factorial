@@ -1,0 +1,16 @@
+D:\C# for job\The factorial\The factorial\bin\Debug\net5.0\The factorial.exe
+D:\C# for job\The factorial\The factorial\bin\Debug\net5.0\The factorial.deps.json
+D:\C# for job\The factorial\The factorial\bin\Debug\net5.0\The factorial.runtimeconfig.json
+D:\C# for job\The factorial\The factorial\bin\Debug\net5.0\The factorial.runtimeconfig.dev.json
+D:\C# for job\The factorial\The factorial\bin\Debug\net5.0\The factorial.dll
+D:\C# for job\The factorial\The factorial\bin\Debug\net5.0\The factorial.pdb
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.csproj.AssemblyReference.cache
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.AssemblyInfoInputs.cache
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.AssemblyInfo.cs
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.csproj.CoreCompileInputs.cache
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.dll
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\refint\The factorial.dll
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.pdb
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\The factorial.genruntimeconfig.cache
+D:\C# for job\The factorial\The factorial\obj\Debug\net5.0\ref\The factorial.dll
